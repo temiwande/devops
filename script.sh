@@ -19,4 +19,11 @@ echo "2. Create a group"
 echo "3. Create a file"
 echo "4. Create a folder"
 echo "5. Create a webserver"
-Write a case statement that will perform any action you want the user to do
+#Read option
+Sleep 2
+echo "You have selected $option"
+echo
+#Write a case statement that will perform any action you want the user to do
+echo "Will you like another transaction?"
+echo
+echo done!!
